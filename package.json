@@ -59,6 +59,7 @@
     "async": "^1.5.2",
     "bignumber.js": "^2.3.0",
     "chess.js": "^0.10.2",
+    "insecure-ethereum-p2p-proxy": "github:ise-ethereum/insecure-ethereum-p2p-proxy",
     "web3-shh-dropin-for-proxy": "github:ise-ethereum/web3-shh-dropin-for-proxy"
   }
 }
